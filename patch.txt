@@ -1,0 +1,7 @@
+#- name: Weapon Swap on Kill
+#- author: bordplate
+#- href: https://github.com/bordplate/rac3-swap-kill
+#- version: 1.0
+#- description: Changes your weapon each time you earn XP, e.g. every time you get a kill 
+
+automation: main.lua
